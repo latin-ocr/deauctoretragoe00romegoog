@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deauctoretragoe00romegoog_0006.png"; bbox 0 0 3150 5356; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 309 2058 1404 2573">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 309 2058 1404 2573">
+     <span class='ocr_line' id='line_1_1' title="bbox 418 2058 1139 2201; baseline -0.014 -13"><span class='ocrx_word' id='word_1_1' title='bbox 418 2093 492 2188; x_wconf 77' lang='lat' dir='ltr'><strong>,DE</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 525 2058 734 2183; x_wconf 70' lang='lat' dir='ltr'><strong>AUCTORE</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 767 2089 1139 2201; x_wconf 73' lang='lat' dir='ltr'><strong>TRAGOEDIARUM,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 309 2285 1404 2417; baseline 0 -42"><span class='ocrx_word' id='word_1_4' title='bbox 309 2285 430 2392; x_wconf 67' lang='lat' dir='ltr'><strong>QUAE</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 463 2287 546 2378; x_wconf 72' lang='lat' dir='ltr'><strong>SUB</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 578 2285 783 2400; x_wconf 35' lang='lat' dir='ltr'>SENECAE,</span> <span class='ocrx_word' id='word_1_7' title='bbox 812 2287 980 2379; x_wconf 76' lang='lat' dir='ltr'>NOMINE</span> <span class='ocrx_word' id='word_1_8' title='bbox 1010 2287 1263 2397; x_wconf 71' lang='lat' dir='ltr'>FERUNTUR,</span> <span class='ocrx_word' id='word_1_9' title='bbox 1394 2404 1404 2417; x_wconf 69' lang='lat'><strong>,.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 540 2479 1030 2573; baseline 0 -3"><span class='ocrx_word' id='word_1_10' title='bbox 540 2479 743 2572; x_wconf 67' lang='lat' dir='ltr'>vssssfflffl</span> <span class='ocrx_word' id='word_1_11' title='bbox 771 2480 1030 2573; x_wconf 72' lang='lat' dir='ltr'><strong>[MITATORE.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1580 5356">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1580 5356">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1580 5356; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1580 5356; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
